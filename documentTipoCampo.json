@@ -1,0 +1,97 @@
+[{
+    "id": 1,
+    "nome":"Lista",
+    "Lista":[{
+        "id":1,
+        "cor":"verde"
+    },
+    {
+        "id":2,
+        "cor": "azul"
+    },
+    {
+        "id":3,
+        "cor":"amarelo"
+    }]
+},
+{
+    "id": 2,
+    "nome": "Seleção Múltipla",
+    "SelecaoMultipla":[{
+        "id":1,
+        "cor":"verde"
+    },
+    {
+        "id":2,
+        "cor": "azul"
+    },
+    {
+        "id":3,
+        "cor":"amarelo"
+    }]
+},
+{
+    "id":3,
+    "nome": "Texto",
+    "Texto":[{
+        "id":1,
+        "cor":"verde"
+    },
+    {
+        "id":2,
+        "cor": "azul"
+    },
+    {
+        "id":3,
+        "cor":"amarelo"
+    }]
+},
+{
+    "id":4,
+    "nome":"Numérico",
+    "Numerico":[{
+        "id":1,
+        "cor": 1
+    },
+    {
+        "id":2,
+        "cor": 2
+    },
+    {
+        "id":3,
+        "cor": 3
+    }]
+},
+{
+    "id":5,
+    "nome": "Data",
+    "Data":[{
+        "id":1,
+        "cor": 10.09
+    },
+    {
+        "id":2,
+        "cor": 12.09
+    },
+    {
+        "id":3,
+        "cor": 14.09
+    }]
+},
+{
+    "id":6,
+    "nome": "Caixa de Seleção",
+    "CaixaSelecao": [{
+        "id":1,
+        "cor":"verde"
+    },
+    {
+        "id":2,
+        "cor": "azul"
+    },
+    {
+        "id":3,
+        "cor":"amarelo"
+    }]
+}
+]
