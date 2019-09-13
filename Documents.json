@@ -1,5 +1,4 @@
-[
-    {
+[{
         "Id": 1,
         "Titulo": "Erro no Login",
         "EUEmail": "exemplo_cosmos@hotmail.com",
@@ -11,42 +10,61 @@
             "Id": 3,
             "Nome": "Pending"
         },
-        "UserInCharge": {
+        "UserAtendente": [{
             "Id": 1,
             "Nome": "Vinicios",
             "Email": "vini.voyager@hotmmail.com",
             "Empresa": "SpaceNeedle"
-        },
-        "Updates": {
+        }],
+        "Updates": [{
             "Id": 1,
-            "Email": "vini.voyager@hotmmail.com",
+            "Usuario": {
+                "Id": 1,
+                "Nome": "Vinicios",
+                "Email": "vini.voyager@hotmmail.com",
+                "Empresa": "SpaceNeedle"
+            },
             "Data": "10/09/2019",
-            "DescricaoUpdate": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo"
-        }
+            "DescricaoUpdate": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo",
+            "Status": {
+                "Id": 3,
+                "Nome": "Pending"
+            }
+        }]
     },
     {
         "Id": 3,
         "Titulo": "Bug na pagina",
         "EUEmail": "exemplo2_cosmos@hotmail.com",
-        "Status": "Pendent",
         "Descricao": "Há um bug na pagina inicial do site X",
         "DocumentIMG": "{url da imagem}",
         "Plataforma": "Web",
         "Data": "10/09/2019",
-        "UserInCharge": {
+        "Status": {
+            "Id": 3,
+            "Nome": "Pending"
+        },
+        "UserAtendente": [{
             "Id": 2,
             "Nome": "Gustavo",
             "Email": "gustavo.voyager@hotmmail.com",
             "Empresa": "SpaceNeedle"
-        },
-        "Updates": [
-            {
+        }],
+        "Updates": [{
+            "Id": 2,
+            "Usuario": {
                 "Id": 2,
+                "Nome": "Gustavo",
                 "Email": "gustavo.voyager@hotmmail.com",
-                "Data": "10/09/2019",
-                "DescricaoUpdate": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo"
+                "Empresa": "SpaceNeedle"
+            }, 
+            "Data": "10/09/2019",
+            "DescricaoUpdate": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo",
+            "Status": {
+                "Id": 3,
+                "Nome": "Pending"
             }
-        ]
+        }]
     },
     {
         "Id": 4,
@@ -60,39 +78,42 @@
             "Id": 5,
             "Nome": "Solved"
         },
-        "UserInCharge": {
+        "UserAtendente": {
             "Id": 2,
             "Nome": "Gustavo",
             "Email": "gustavo.voyager@hotmmail.com",
             "Empresa": "SpaceNeedle"
         },
-        "Updates": [
-            {
+        "Updates": [{
                 "Id": 3,
-                "UserInCharge": {
+                "Usuario": {
                     "Nome": "Gustavo",
                     "Email": "gustavo.voyager@hotmmail.com",
                     "Empresa": "SpaceNeedle"
                 },
                 "Data": "11/09/2019",
-                "DescricaoUpdate": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo"
+                "DescricaoUpdate": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo",
+                "Status": {
+                    "Id": 3,
+                    "Nome": "Pending"
+                }
             },
             {
                 "Id": 4,
-                "Email": "exemplo3_cosmos@hotmail.com",
+                "Usuario": "exemplo3_cosmos@hotmail.com",
                 "Data": "11/09/2019",
                 "DescricaoUpdate": "Boa Tarde. Estou no aguardo de novas respostas"
             },
             {
                 "Id": 5,
-                "UserInCharge": {
+                "UserAtendente": {
                     "Nome": "Gustavo",
                     "Email": "gustavo.voyager@hotmmail.com",
                     "Empresa": "SpaceNeedle"
                 },
                 "Data": "12/09/2019",
                 "DescricaoUpdate": "Boa Tarde. Conseguimos resolver com sucesso o problema que você nos enviou. Agradecemos pelo seu contato",
-                "StatusDoc": {
+                "Status": {
                     "Id": 5,
                     "Nome": "Solved"
                 }
