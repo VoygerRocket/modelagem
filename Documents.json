@@ -78,12 +78,12 @@
             "Id": 5,
             "Nome": "Solved"
         },
-        "UserAtendente": {
+        "UserAtendente": [{
             "Id": 2,
             "Nome": "Gustavo",
             "Email": "gustavo.voyager@hotmmail.com",
             "Empresa": "SpaceNeedle"
-        },
+        }],
         "Updates": [{
                 "Id": 3,
                 "Usuario": {
