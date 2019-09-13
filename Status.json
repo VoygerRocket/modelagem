@@ -1,22 +1,22 @@
 [
     {
-        "Id" : "1",
+        "Id" : 1,
         "Nome" : "New"
     },
     {
-        "Id" : "2",
+        "Id" : 2,
         "Nome" : "Open"
     },
     {
-        "Id" : "3",
+        "Id" : 3,
         "Nome": "Pending"
     },
     {
-        "Id" : "4",
+        "Id" : 4,
         "Nome" : "On_Hold"
     },
     {
-        "Id": "5",
+        "Id": 5,
         "Nome": "Solved"
     }
 ]
