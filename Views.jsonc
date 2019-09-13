@@ -1,76 +1,67 @@
 [
     {
-        "Id": "1",
-        "Nome": "Poliedro",
-        "Condicao": [
+        "Id": 1,
+        "Nome": "Documents Novos",
+        "Condicao": 
+        [
             {
-                "Id": "1",
+                "Id": 1,
                 "Nome": "Titulo"
             },
             {
-                "Id": "2",
+                "Id": 2,
                 "Nome": "EUEmail"
             },
             {
-                "Id": "3",
+                "Id": 3,
                 "Nome": "Status"
             },
             {
-                "Id": "4",
+                "Id": 4,
                 "Nome": "Descricao"
             },
             {
-                "Id": "5",
+                "Id": 5,
                 "Nome": "Versao"
             },
             {
-                "Id": "6",
+                "Id": 6,
                 "Nome": "Plataforma"
             },
             {
-                "Id": "7",
+                "Id": 7,
                 "Nome": "UserInCharge"
             },
-            {
-                "Id": "8",
-                "Nome": "Updates"
-            }
+
         ],
-        "Valor": [
+        "Valor": 
+        [
             {
-                "Id": "1",
+                "Id": 1,
                 "Nome": "New"
             },
             {
-                "Id": "2",
+                "Id": 2,
                 "Nome": "Open"
             },
-            {
-                "Id": "3",
-                "Nome": "Penning"
-            },
-            {
-                "Id": "4",
-                "Nome": "On-hold"
-            },
-            {
-                "Id": "5",
-                "Nome": "Solved"
-            }
+
         ],
-        "Campos": [
-            {
-                "Id": "1",
-                "NomeCamp": "NumerodeSerie",
-                "Tipo":[
-                     {
-                        "Id": "4",
-                        "Nome": "Numerico"
-                    }
-                ],
-                //"StatusCamp": "",
-                "Obrigatorio": true 
-            }
+        "CamposSelecionados": 
+        [
+            
+                {
+                    "Id": 1,
+                    "Nome": "Titulo"
+                },
+                {
+                    "Id": 2,
+                    "Nome": "EUEmail"
+                },
+                {
+                    "Id": 3,
+                    "Nome": "Status"
+                },                
         ]
+
     }
 ]

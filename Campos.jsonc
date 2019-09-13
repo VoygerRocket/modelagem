@@ -1,34 +1,26 @@
 [
     {
-        "Campos":[
+        "Id": "1",
+        "NomeCamp": "Versao",
+        "TipoCampo": 
+        [
             {
-                "Id": "",
-                "NomeCamp": "",
-                "TipoCampo": [
-                    {
-                        "Id": "1",
-                        "Nome": "Lista"
-                    },
-                    {
-                        "Id": "2",
-                        "Nome": "SelecaoMultipla"
-                    }, {
-                        "Id": "3",
-                        "Nome": "Texto"
-                    }, {
-                        "Id": "4",
-                        "Nome": "Numerico"
-                    }, {
-                        "Id": "5",
-                        "Nome": "Data"
-                    }, {
-                        "Id": "6",
-                        "Nome": "CaixaDeSelecao "
-                    }
-                ],
-              //  "StatusCamp": "",
-                "Obrigatorio": "Bool"                
-            }
-        ]
+                "Id": "4",
+                "Nome": "Numerico"
+            },
+        ],
+        "Obrigatorio": "false"
+    },
+    {
+        "Id": "2",
+        "NomeCamp": "Plataforma",
+        "TipoCampo": 
+        [
+             {
+                 "Id": "6",
+                 "Nome": "CaixaDeSelecao "
+             }
+        ],
+        "Obrigatorio": "false"
     }
 ]

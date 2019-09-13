@@ -1,0 +1,26 @@
+[
+    {
+        "Id": "1",
+        "Nome": "Lista"
+    },
+    {
+        "Id": "2",
+        "Nome": "SelecaoMultipla"
+    },
+    {
+        "Id": "3",
+        "Nome": "Texto"
+    },
+    {
+        "Id": "4",
+        "Nome": "Numerico"
+    },
+    {
+        "Id": "5",
+        "Nome": "Data"
+    },
+    {
+        "Id": "6",
+        "Nome": "CaixaDeSelecao "
+    }
+]
