@@ -1,26 +1,26 @@
 [
     {
         "Id": 1,
-        "NomeCamp": "Versao",
-        "TipoCampo": 
+        "FieldName": "Versao",
+        "FieldType": 
         [
             {
                 "Id": 4,
-                "Nome": "Numerico"
-            },
+                "Name": "Numerico"
+            }
         ],
-        "Obrigatorio": "false"
+        "Required": "false"
     },
     {
         "Id": 2,
-        "NomeCamp": "Plataforma",
-        "TipoCampo": 
+        "FieldName": "Plataforma",
+        "FieldType": 
         [
              {
                  "Id": 6,
-                 "Nome": "CaixaDeSelecao "
+                 "Name": "CaixaDeSelecao "
              }
         ],
-        "Obrigatorio": "false"
+        "Required": "false"
     }
 ]

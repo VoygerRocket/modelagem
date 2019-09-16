@@ -1,26 +1,26 @@
 [
     {
         "Id": 1,
-        "Nome": "Vinicios",
+        "Name": "Vinicios",
         "Email": "vini.voyager@hotmmail.com",
-        "Empresa": "SpaceNeedle"
+        "Company": "SpaceNeedle"
     },
     {
         "Id": 2,
-        "Nome": "Gustavo",
+        "Name": "Gustavo",
         "Email": "gustavo.voyager@hotmmail.com",
-        "Empresa": "SpaceNeedle"
+        "Company": "SpaceNeedle"
     },
     {
         "Id": 3,
-        "Nome": "Aline",
+        "Name": "Aline",
         "Email": "aline.voyager@hotmmail.com",
-        "Empresa": "SpaceNeedle"
+        "Company": "SpaceNeedle"
     },
     {
         "Id": 4,
-        "Nome": "Felipe",
+        "Name": "Felipe",
         "Email": "felipe.voyager@hotmmail.com",
-        "Empresa": "SpaceNeedle"
+        "Company": "SpaceNeedle"
     }
 ]

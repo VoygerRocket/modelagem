@@ -1,26 +1,26 @@
 [
     {
         "Id": 1,
-        "Nome": "Lista"
+        "Name": "List"
     },
     {
         "Id": 2,
-        "Nome": "SelecaoMultipla"
+        "Name": "MultipleSelection"
     },
     {
         "Id": 3,
-        "Nome": "Texto"
+        "Name": "Text"
     },
     {
         "Id": 4,
-        "Nome": "Numerico"
+        "Name": "Numeral"
     },
     {
         "Id": 5,
-        "Nome": "Data"
+        "Name": "Date"
     },
     {
         "Id": 6,
-        "Nome": "CaixaDeSelecao "
+        "Name": "CheckBox"
     }
 ]
