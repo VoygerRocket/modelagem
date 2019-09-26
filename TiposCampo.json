@@ -1,26 +1,20 @@
 [
     {
-        "Id": 1,
-        "Name": "List"
+        "fieldTypeName": "List"
     },
     {
-        "Id": 2,
-        "Name": "MultipleSelection"
+        "fieldTypeName": "MultipleSelection"
     },
     {
-        "Id": 3,
-        "Name": "Text"
+        "fieldTypeName": "Text"
     },
     {
-        "Id": 4,
-        "Name": "Numeral"
+        "fieldTypeName": "Numeral"
     },
     {
-        "Id": 5,
-        "Name": "Date"
+        "fieldTypeName": "Date"
     },
     {
-        "Id": 6,
-        "Name": "CheckBox"
+        "fieldTypeName": "CheckBox"
     }
 ]

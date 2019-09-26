@@ -1,24 +1,20 @@
 [
+        {
+            "FieldName": "Versao",
+            "FieldType": 
+            [
+                {
+                    "fieldTypeName": "Numerico"
+                }
+            ],
+            "Required": "false"
+        },
     {
-        "Id": 1,
-        "FieldName": "Versao",
-        "FieldType": 
-        [
-            {
-                "Id": 4,
-                "Name": "Numerico"
-            }
-        ],
-        "Required": "false"
-    },
-    {
-        "Id": 2,
         "FieldName": "Plataforma",
         "FieldType": 
         [
              {
-                 "Id": 6,
-                 "Name": "CaixaDeSelecao "
+                 "fieldTypeName": "CaixaDeSelecao "
              }
         ],
         "Required": "false"

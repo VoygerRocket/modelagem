@@ -1,67 +1,60 @@
-[
-    {
-        "Id": 1,
-        "Name": "New Documents",
-        "Condition": 
-        [
-            {
-                "Id": 1,
-                "Name": "Titulo"
-            },
-            {
-                "Id": 2,
-                "Name": "EUEmail"
-            },
-            {
-                "Id": 3,
-                "Name": "Status"
-            },
-            {
-                "Id": 4,
-                "Name": "Descricao"
-            },
-            {
-                "Id": 5,
-                "Name": "Versao"
-            },
-            {
-                "Id": 6,
-                "Name": "Plataforma"
-            },
-            {
-                "Id": 7,
-                "Name": "UserInCharge"
-            }
+[{
+    "Id": 1,
+    "Nome": "Documents Novos",
+    "Condicao": [{
+            "Id": 1,
+            "Nome": "Titulo"
+        },
+        {
+            "Id": 2,
+            "Nome": "EUEmail"
+        },
+        {
+            "Id": 3,
+            "Nome": "Status"
+        },
+        {
+            "Id": 4,
+            "Nome": "Descricao"
+        },
+        {
+            "Id": 5,
+            "Nome": "Versao"
+        },
+        {
+            "Id": 6,
+            "Nome": "Plataforma"
+        },
+        {
+            "Id": 7,
+            "Nome": "UserInCharge"
+        },
 
-        ],
-        "Values": 
-        [
-            {
-                "Id": 1,
-                "Name": "New"
-            },
-            {
-                "Id": 2,
-                "Name": "Open"
-            }
+    ],
+    "Valor": [{
+            "Id": 1,
+            "Nome": "New"
+        },
+        {
+            "Id": 2,
+            "Nome": "Open"
+        },
 
-        ],
-        "SelectedFields": 
-        [
-            
-                {
-                    "Id": 1,
-                    "Name": "Titulo"
-                },
-                {
-                    "Id": 2,
-                    "Name": "EUEmail"
-                },
-                {
-                    "Id": 3,
-                    "Name": "Status"
-                }                
-        ]
+    ],
+    "CamposSelecionados": [
 
-    }
-]
+        {
+            "Id": 1,
+            "Nome": "Titulo"
+        },
+        {
+            "Id": 2,
+            "Nome": "EUEmail"
+        },
+        {
+            "Id": 3,
+            "Nome": "Status"
+        },
+    ]
+
+}]
