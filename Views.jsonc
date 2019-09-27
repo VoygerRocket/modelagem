@@ -1,59 +1,60 @@
 [{
+    "Name": "Aline",
+    "Email": "aline.voyager@hotmmail.com",
+    "Company": "SpaceNeedle",
+    "Administrator": "false",
+    "Views": [{
+        "ViewName": "Documents Novos",
+        "Condition": [{
+                "Name": "Titulo"
+            },
+            {
 
-    "Name": "Documents Novos",
-    "Condicao": [{
+                "Name": "EUEmail"
+            },
+            {
 
-            "Name": "Titulo"
-        },
-        {
+                "Name": "Status"
+            },
+            {
 
-            "Name": "EUEmail"
-        },
-        {
+                "Name": "Descricao"
+            },
+            {
 
-            "Name": "Status"
-        },
-        {
+                "Name": "Versao"
+            },
+            {
+                "Name": "Plataforma"
+            },
+            {
 
-            "Name": "Descricao"
-        },
-        {
+                "Name": "UserInCharge"
+            },
 
-            "Name": "Versao"
-        },
-        {
-            "Name": "Plataforma"
-        },
-        {
+        ],
+        "Value": [{
 
-            "Name": "UserInCharge"
-        },
+                "ValueName": "New"
+            },
+            {
 
-    ],
-    "Valor": [{
+                "ValueName": "Open"
+            },
 
-            "Name": "New"
-        },
-        {
+        ],
+        "SelectedFields": [
 
-            "Name": "Open"
-        },
+            {
+                "FieldName": "Titulo"
+            },
+            {
+                "FieldName": "EUEmail"
+            },
+            {
+                "FieldName": "Status"
+            },
+        ]
 
-    ],
-    "CamposSelecionados": [
-
-        {
-
-            "Name": "Titulo"
-        },
-        {
-
-            "Name": "EUEmail"
-        },
-        {
-
-            "Name": "Status"
-        },
-    ]
-
+    }]
 }]
