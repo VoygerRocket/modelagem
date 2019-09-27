@@ -1,26 +1,29 @@
 [
     {
-        "Id": 1,
+
         "Name": "Vinicios",
         "Email": "vini.voyager@hotmmail.com",
-        "Company": "SpaceNeedle"
+        "Company": "SpaceNeedle",
+        "Administrator" : "true"
     },
     {
-        "Id": 2,
+
         "Name": "Gustavo",
         "Email": "gustavo.voyager@hotmmail.com",
-        "Company": "SpaceNeedle"
+        "Company": "SpaceNeedle",
+        "Administrator" : "false"
     },
     {
-        "Id": 3,
+
         "Name": "Aline",
         "Email": "aline.voyager@hotmmail.com",
-        "Company": "SpaceNeedle"
+        "Company": "SpaceNeedle",
+        "Administrator" : "false"
     },
     {
-        "Id": 4,
         "Name": "Felipe",
         "Email": "felipe.voyager@hotmmail.com",
-        "Company": "SpaceNeedle"
+        "Company": "SpaceNeedle",
+        "Administrator" : "false"
     }
 ]

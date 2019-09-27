@@ -1,59 +1,58 @@
 [{
-    "Id": 1,
-    "Nome": "Documents Novos",
+
+    "Name": "Documents Novos",
     "Condicao": [{
-            "Id": 1,
-            "Nome": "Titulo"
+
+            "Name": "Titulo"
         },
         {
-            "Id": 2,
-            "Nome": "EUEmail"
+
+            "Name": "EUEmail"
         },
         {
-            "Id": 3,
-            "Nome": "Status"
+
+            "Name": "Status"
         },
         {
-            "Id": 4,
-            "Nome": "Descricao"
+
+            "Name": "Descricao"
         },
         {
-            "Id": 5,
-            "Nome": "Versao"
+
+            "Name": "Versao"
         },
         {
-            "Id": 6,
-            "Nome": "Plataforma"
+            "Name": "Plataforma"
         },
         {
-            "Id": 7,
-            "Nome": "UserInCharge"
+
+            "Name": "UserInCharge"
         },
 
     ],
     "Valor": [{
-            "Id": 1,
-            "Nome": "New"
+
+            "Name": "New"
         },
         {
-            "Id": 2,
-            "Nome": "Open"
+
+            "Name": "Open"
         },
 
     ],
     "CamposSelecionados": [
 
         {
-            "Id": 1,
-            "Nome": "Titulo"
+
+            "Name": "Titulo"
         },
         {
-            "Id": 2,
-            "Nome": "EUEmail"
+
+            "Name": "EUEmail"
         },
         {
-            "Id": 3,
-            "Nome": "Status"
+
+            "Name": "Status"
         },
     ]
 
