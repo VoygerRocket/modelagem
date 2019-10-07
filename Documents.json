@@ -1,8 +1,8 @@
-[{
+[
+    {
         "Title": "Erro no Login",
         "EUEmail": "exemplo_cosmos@hotmail.com",
         "Description": "Nao consigo logar no sistema X com o meu e-mail e senha",
-
         "Version": "1.0.3",
         "Plataform": "Mobile",
         "Date": "10/09/2019",
@@ -18,7 +18,6 @@
             "Email": "vini.voyager@hotmmail.com",
             "Date": "10/09/2019",
             "UpdateDescription": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo"
-
         }
     },
     {
@@ -28,10 +27,12 @@
         "DocumentStatus": {
             "Name": "Pending"
         },
-        "Attachment": [{
-            "AttachmentLink": "(url da imagem)",
-            "AttachmentType": "JPG"
-        }],
+        "Attachment": [
+            {
+                "AttachmentLink": "(url da imagem)",
+                "AttachmentType": "JPG"
+            }
+        ],
         "Plataform": "Web",
         "Date": "10/09/2019",
         "UserInCharge": {
@@ -39,21 +40,25 @@
             "Email": "gustavo.voyager@hotmmail.com",
             "Company": "SpaceNeedle"
         },
-        "Updates": [{
-            "Email": "gustavo.voyager@hotmmail.com",
-            "Date": "10/09/2019",
-            "UpdateDescription": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo"
-        }]
+        "Updates": [
+            {
+                "Email": "gustavo.voyager@hotmmail.com",
+                "Date": "10/09/2019",
+                "UpdateDescription": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo"
+            }
+        ]
     },
     {
         "Title": "Link Fantasma",
         "EUEmail": "exemplo3_cosmos@hotmail.com",
         "Date": "10/09/2019",
         "Description": "Um dos links da página Home nao leva a lugar nenhum",
-        "Attachment": [{
-            "AttachmentLink": "(url da imagem)",
-            "AttachmentType": "JPG"
-        }],
+        "Attachment": [
+            {
+                "AttachmentLink": "(url da imagem)",
+                "AttachmentType": "JPG"
+            }
+        ],
         "Plataform": "Web",
         "DocumentStatus": {
             "Name": "Solved"
@@ -63,7 +68,8 @@
             "Email": "gustavo.voyager@hotmmail.com",
             "Company": "SpaceNeedle"
         },
-        "Updates": [{
+        "Updates": [
+            {
                 "Date": "11/09/2019",
                 "UpdateDescription": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo",
                 "UserInCharge": {
@@ -74,13 +80,11 @@
                 "DocumentStatus": {
                     "Name": "Pending"
                 }
-
             },
             {
                 "Email": "exemplo3_cosmos@hotmail.com",
                 "Date": "11/09/2019",
                 "UpdateDescription": "Boa Tarde. Estou no aguardo de novas respostas"
-
             },
             {
                 "UserInCharge": {

@@ -1,20 +1,20 @@
 [
     {
-        "fieldTypeName": "List"
+        "TypeName": "List"
     },
     {
-        "fieldTypeName": "MultipleSelection"
+        "TypeName": "MultipleSelection"
     },
     {
-        "fieldTypeName": "Text"
+        "TypeName": "Text"
     },
     {
-        "fieldTypeName": "Numeral"
+        "TypeName": "Numeral"
     },
     {
-        "fieldTypeName": "Date"
+        "TypeName": "Date"
     },
     {
-        "fieldTypeName": "CheckBox"
+        "TypeName": "CheckBox"
     }
 ]
