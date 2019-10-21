@@ -4,26 +4,26 @@
         "Name": "Vinicios",
         "Email": "vini.voyager@hotmmail.com",
         "Company": "SpaceNeedle",
-        "Administrator" : "true"
+        "Administrator" : true
     },
     {
 
         "Name": "Gustavo",
         "Email": "gustavo.voyager@hotmmail.com",
         "Company": "SpaceNeedle",
-        "Administrator" : "false"
+        "Administrator" : false
     },
     {
 
         "Name": "Aline",
         "Email": "aline.voyager@hotmmail.com",
         "Company": "SpaceNeedle",
-        "Administrator" : "false"
+        "Administrator" : false
     },
     {
         "Name": "Felipe",
         "Email": "felipe.voyager@hotmmail.com",
         "Company": "SpaceNeedle",
-        "Administrator" : "false"
+        "Administrator" : false
     }
 ]

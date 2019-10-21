@@ -1,13 +1,21 @@
 [{
         "FieldName": "Versao",
-        "FieldType": "Numerico",
-        "Required": "false",
-        "Visible": "true"
+        "FieldType": 3,
+        "Required": false,
+        "Visible": true,
+        "Values" : [{}]
     },
     {
         "FieldName": "Plataforma",
-        "FieldType": "CaixaDeSelecao ",
-        "Required": "false",
-        "Visible": "true"
+        "FieldType": 6,
+        "Required": false,
+        "Visible": true,
+        "Values": [{
+            "valueName": "iOS"
+        },
+        {
+            "valueName": "Android"
+        }
+    ],
     }
 ]

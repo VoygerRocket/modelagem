@@ -1,0 +1,162 @@
+[{
+        "Title": "Erro no Login",
+        "Description": "Nao consigo logar no sistema X com o meu e-mail e senha",
+        "EUEmail": "exemplo2_cosmos@hotmail.com",
+        "DocumentStatus": 3,
+        "Date": "10/09/2019",
+        "Attachment": [{}],
+        //Campos criados pelo Administrator 
+        "Field": [{
+                "FieldName": "Versao",
+                "Required": true,
+                "Visible": true,
+                "FieldType": 3,
+            },
+            {
+                "FieldName": "Plataforma",
+                "FieldType": 6,
+                "Required": false,
+                "Visible": true,
+                "Values": [{
+                        "valueName": "iOS"
+                    },
+                    {
+                        "valueName": "Android"
+                    },
+                    {
+                        "valueName": "Web"
+                    }
+                ],
+                //Lista de Strings para armazenamento de Nomes dos Campos e suas respectivas respostas
+                "Answers": [
+                    "Versao:1.2.3",
+                    "Plataforma:Android"
+                ]
+            }
+        ],
+        //Usuario responsável pelo atendimento
+        "UserInCharge": {
+            "Name": "Vinicios",
+            "Email": "vini.voyager@hotmmail.com",
+            "Company": "SpaceNeedle",
+            "Administrator": true
+        },
+        //Updates em relação ao andamento do atendimento
+        "Updates": {
+            "Email": "vini.voyager@hotmmail.com",
+            "Date": "10/09/2019",
+            "UpdateDescription": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo",
+            "DocumentStatus": 3
+        }
+    },
+
+
+    {
+        "Title": "Bug na pagina",
+        "EUEmail": "exemplo2_cosmos@hotmail.com",
+        "Description": "Há um bug na pagina inicial do site X",
+        "DocumentStatus": 3,
+        "Attachment": [{}],
+        "Date": "10/09/2019",
+        //Campos criados pelo Administrator 
+        "Field": [{
+            "FieldName": "Plataforma",
+            "FieldType": 6,
+            "Required": false,
+            "Visible": true,
+            "Values": [{
+                    "valueName": "iOS"
+                },
+                {
+                    "valueName": "Android"
+                },
+                {
+                    "valueName": "Web"
+                }
+            ],
+            //Lista de Strings para armazenamento de Nomes dos Campos e suas respectivas respostas
+            "Answers": [
+                "Plataforma:Web"
+            ]
+        }],
+        //Usuario responsável pelo atendimento
+        "UserInCharge": {
+            "Name": "Gustavo",
+            "Email": "gustavo.voyager@hotmmail.com",
+            "Company": "SpaceNeedle",
+            "Administrator": false
+        },
+        //Updates em relação ao andamento do atendimento
+        "Updates": [{
+            "Email": "gustavo.voyager@hotmmail.com",
+            "Date": "10/09/2019",
+            "UpdateDescription": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo",
+            "DocumentStatus": 3
+        }]
+    },
+    {
+        "Title": "Link Fantasma",
+        "EUEmail": "exemplo3_cosmos@hotmail.com",
+        "Date": "10/09/2019",
+        "Description": "Um dos links da página Home nao leva a lugar nenhum",
+        "Attachment": [{}],
+        "DocumentStatus": 5,
+        "UserInCharge": {
+            "Name": "Gustavo",
+            "Email": "gustavo.voyager@hotmmail.com",
+            "Company": "SpaceNeedle",
+            "Administrator": false,
+        },
+        //Campos criados pelo Administrator 
+        "Field": [{
+            "FieldName": "Plataforma",
+            "FieldType": 6,
+            "Required": false,
+            "Visible": true,
+            "Values": [{
+                    "valueName": "iOS"
+                },
+                {
+                    "valueName": "Android"
+                },
+                {
+                    "valueName": "Web"
+                }
+            ],
+            //Lista de Strings para armazenamento de Nomes dos Campos e suas respectivas respostas
+            "Answers": [
+                "Plataforma:Web"
+            ]
+        }],
+        //Updates em relação ao andamento do atendimento
+        "Updates": [{
+                "Date": "11/09/2019",
+                "UpdateDescription": "Boa Tarde. Vimos o seu Document e ja estamos trabalhando para resolve-lo",
+                //Usuario responsável pelo atendimento
+                "UserInCharge": {
+                    "Name": "Gustavo",
+                    "Email": "gustavo.voyager@hotmmail.com",
+                    "Company": "SpaceNeedle",
+                    "DocumentStatus": 3
+                },
+            },
+            {
+                "Email": "exemplo3_cosmos@hotmail.com",
+                "Date": "11/09/2019",
+                "UpdateDescription": "Boa Tarde. Estou no aguardo de novas respostas"
+            },
+            {
+                //Usuario responsável pelo atendimento
+                "UserInCharge": {
+                    "Nome": "Gustavo",
+                    "Email": "gustavo.voyager@hotmmail.com",
+                    "Company": "SpaceNeedle",
+                    "Administrator": false
+                },
+                "Date": "12/09/2019",
+                "UpdateDescription": "Boa Tarde. Conseguimos resolver com sucesso o problema que você nos enviou. Agradecemos pelo seu contato",
+                "DocumentStatus": 5
+            }
+        ]
+    }
+]

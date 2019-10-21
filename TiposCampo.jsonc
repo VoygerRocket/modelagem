@@ -1,0 +1,15 @@
+    //Tipos dos Campos organizados em ENUM 
+[
+    //List
+    1,
+    //MultipleSelection
+    2,
+    //Text
+    3,
+    //Numeral
+    4,
+    //Date
+    5,
+    //CheckBox
+    6
+]

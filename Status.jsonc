@@ -1,0 +1,14 @@
+
+  //Status relacionados ao andamento do Document organizados em ENUM
+[  
+  //New
+    1,
+  //Open
+    2,
+  //Pending  
+    3,
+  //OnHold
+    4,
+  //Solved
+    5
+]
