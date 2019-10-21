@@ -9,7 +9,7 @@
         "DocumentStatus": {
             "Name": "Pending"
         },
-        "UserInCharge": {
+        "UserInCharge": {  
             "Name": "Vinicios",
             "Email": "vini.voyager@hotmmail.com",
             "Company": "SpaceNeedle"
